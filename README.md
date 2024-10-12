@@ -4,7 +4,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta charset="UTF-8">
         <meta name="author" contnet="OBUTE OCHE JOHNBRIGHT">
-    <title>Perfect Fashion Website</title>
+    <title>Abruzzi Fashion Website</title>
     <style>
         body {
           font-family: Arial, sans-serif;
@@ -52,7 +52,7 @@
     <body>
 <section class="container">
     <div>
-        <h1>Hi! Welcome to Perfect's Fashionline</h1>
+        <h1>Hi! Welcome to Abruzzi's Fashionline</h1>
         <!--paragraph-->
         <p>This Nigeria-based fashion brand features a visually compelling website with gorgeous product photography and an editorial-inspired design. The site feels like a fashion magazine, with comprehensive menu options and artistic product displays</p>
     </div>
